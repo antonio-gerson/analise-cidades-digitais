@@ -1,2 +1,2 @@
-# data-science-python
-Repositório de Projetos em Python para Análise de dados, Machine learning e Visualização de dados.
+# cidades-digitais
+Utilizando Python e suas bibliotecas Pandas e Numpy analisei os dados do dataset cidades digitais do site gov.br.
